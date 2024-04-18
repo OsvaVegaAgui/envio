@@ -1,0 +1,14 @@
+.contenedor{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.caja{
+    width: 100%;
+    margin: 10px;
+}
+
+form{
+    width: 100%;
+}
